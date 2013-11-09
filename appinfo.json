@@ -1,0 +1,26 @@
+{
+  "uuid": "45c2ed1a-7809-4cfe-9144-08173353aaad",
+  "shortName": "Midnight Secs",
+  "longName": "Midnight Secs",
+  "companyName": "Overpunch",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_M_52",
+        "file": "fonts/m/m.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_M_24",
+        "file": "fonts/m/m.ttf"
+      }
+    ]
+  }
+}
